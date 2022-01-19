@@ -1,4 +1,4 @@
-## How to convert the type of function's arguments in Python on runtime?
+## How to convert the type of function's arguments in Python at runtime?
 
 # Introduction
 
