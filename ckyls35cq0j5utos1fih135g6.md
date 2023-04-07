@@ -1,4 +1,13 @@
-## How to convert the type of function's arguments in Python at runtime?
+---
+title: "How to convert the type of function's arguments in Python at runtime?"
+seoDescription: "Converting the type of arguments passed to the function according to the type hints of the parameters of a function."
+datePublished: Wed Jan 19 2022 16:47:26 GMT+0000 (Coordinated Universal Time)
+cuid: ckyls35cq0j5utos1fih135g6
+slug: how-to-convert-the-type-of-functions-arguments-in-python-at-runtime
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1642611813493/rkAcQWSFj.png
+tags: functions, python
+
+---
 
 # Introduction
 
